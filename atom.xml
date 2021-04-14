@@ -3,11 +3,11 @@
   <title>練習出張所</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://renshuutw.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://renshuutw.github.io/"/>
   <updated>2021-04-14T02:16:05.524Z</updated>
-  <id>http://example.com/</id>
+  <id>https://renshuutw.github.io/</id>
   
   <author>
     <name>eikou</name>
@@ -18,29 +18,29 @@
   
   <entry>
     <title>台中美食 | 岩本町 隱身公益路CP值爆表的日式餐廳 | 現烤鰻魚飯</title>
-    <link href="http://example.com/2021/01/18/delicious-japanese-restaurant-with-cheap-price/"/>
-    <id>http://example.com/2021/01/18/delicious-japanese-restaurant-with-cheap-price/</id>
+    <link href="https://renshuutw.github.io/2021/01/18/delicious-japanese-restaurant-with-cheap-price/"/>
+    <id>https://renshuutw.github.io/2021/01/18/delicious-japanese-restaurant-with-cheap-price/</id>
     <published>2021-01-18T08:53:33.000Z</published>
     <updated>2021-04-14T02:16:05.524Z</updated>
     
     
     
     
-    <category term="美食" scheme="http://example.com/categories/%E7%BE%8E%E9%A3%9F/"/>
+    <category term="美食" scheme="https://renshuutw.github.io/categories/%E7%BE%8E%E9%A3%9F/"/>
     
     
-    <category term="日式料理" scheme="http://example.com/tags/%E6%97%A5%E5%BC%8F%E6%96%99%E7%90%86/"/>
+    <category term="日式料理" scheme="https://renshuutw.github.io/tags/%E6%97%A5%E5%BC%8F%E6%96%99%E7%90%86/"/>
     
-    <category term="台中" scheme="http://example.com/tags/%E5%8F%B0%E4%B8%AD/"/>
+    <category term="台中" scheme="https://renshuutw.github.io/tags/%E5%8F%B0%E4%B8%AD/"/>
     
-    <category term="taichung" scheme="http://example.com/tags/taichung/"/>
+    <category term="taichung" scheme="https://renshuutw.github.io/tags/taichung/"/>
     
   </entry>
   
   <entry>
     <title>如何關閉Apple ID的雙重認證 | 兩步驟驗證 |  取消綁定手機號碼</title>
-    <link href="http://example.com/2021/01/09/how-to-turn-off-apple-id-two-factor-authentication/"/>
-    <id>http://example.com/2021/01/09/how-to-turn-off-apple-id-two-factor-authentication/</id>
+    <link href="https://renshuutw.github.io/2021/01/09/how-to-turn-off-apple-id-two-factor-authentication/"/>
+    <id>https://renshuutw.github.io/2021/01/09/how-to-turn-off-apple-id-two-factor-authentication/</id>
     <published>2021-01-09T08:53:00.000Z</published>
     <updated>2021-04-14T02:24:41.276Z</updated>
     
@@ -51,19 +51,19 @@
     
     
     
-    <category term="教學" scheme="http://example.com/categories/%E6%95%99%E5%AD%B8/"/>
+    <category term="教學" scheme="https://renshuutw.github.io/categories/%E6%95%99%E5%AD%B8/"/>
     
     
-    <category term="iPhone" scheme="http://example.com/tags/iPhone/"/>
+    <category term="iPhone" scheme="https://renshuutw.github.io/tags/iPhone/"/>
     
-    <category term="資安" scheme="http://example.com/tags/%E8%B3%87%E5%AE%89/"/>
+    <category term="資安" scheme="https://renshuutw.github.io/tags/%E8%B3%87%E5%AE%89/"/>
     
   </entry>
   
   <entry>
     <title>高雄 | 生日優惠 | 老字號新國際西餐廳 肉質鮮嫩讓人心滿意足</title>
-    <link href="http://example.com/2020/12/05/kaohsiung-new-international-restaurant-best-food-with-birthday-price/"/>
-    <id>http://example.com/2020/12/05/kaohsiung-new-international-restaurant-best-food-with-birthday-price/</id>
+    <link href="https://renshuutw.github.io/2020/12/05/kaohsiung-new-international-restaurant-best-food-with-birthday-price/"/>
+    <id>https://renshuutw.github.io/2020/12/05/kaohsiung-new-international-restaurant-best-food-with-birthday-price/</id>
     <published>2020-12-05T08:53:33.000Z</published>
     <updated>2021-04-14T02:15:42.148Z</updated>
     
@@ -78,23 +78,23 @@
     
     
     
-    <category term="美食" scheme="http://example.com/categories/%E7%BE%8E%E9%A3%9F/"/>
+    <category term="美食" scheme="https://renshuutw.github.io/categories/%E7%BE%8E%E9%A3%9F/"/>
     
     
-    <category term="生日優惠" scheme="http://example.com/tags/%E7%94%9F%E6%97%A5%E5%84%AA%E6%83%A0/"/>
+    <category term="生日優惠" scheme="https://renshuutw.github.io/tags/%E7%94%9F%E6%97%A5%E5%84%AA%E6%83%A0/"/>
     
-    <category term="排餐" scheme="http://example.com/tags/%E6%8E%92%E9%A4%90/"/>
+    <category term="排餐" scheme="https://renshuutw.github.io/tags/%E6%8E%92%E9%A4%90/"/>
     
-    <category term="高雄" scheme="http://example.com/tags/%E9%AB%98%E9%9B%84/"/>
+    <category term="高雄" scheme="https://renshuutw.github.io/tags/%E9%AB%98%E9%9B%84/"/>
     
-    <category term="kaohsiung" scheme="http://example.com/tags/kaohsiung/"/>
+    <category term="kaohsiung" scheme="https://renshuutw.github.io/tags/kaohsiung/"/>
     
   </entry>
   
   <entry>
     <title>WP外掛 | WordPress該如何更改登入網址？Lockdown WP幫你輕鬆搞定</title>
-    <link href="http://example.com/2019/08/25/how-to-change-wp-login-url/"/>
-    <id>http://example.com/2019/08/25/how-to-change-wp-login-url/</id>
+    <link href="https://renshuutw.github.io/2019/08/25/how-to-change-wp-login-url/"/>
+    <id>https://renshuutw.github.io/2019/08/25/how-to-change-wp-login-url/</id>
     <published>2019-08-25T08:53:33.000Z</published>
     <updated>2021-04-14T02:13:24.293Z</updated>
     
@@ -105,19 +105,19 @@
     
     
     
-    <category term="教學" scheme="http://example.com/categories/%E6%95%99%E5%AD%B8/"/>
+    <category term="教學" scheme="https://renshuutw.github.io/categories/%E6%95%99%E5%AD%B8/"/>
     
     
-    <category term="Wordpress" scheme="http://example.com/tags/Wordpress/"/>
+    <category term="Wordpress" scheme="https://renshuutw.github.io/tags/Wordpress/"/>
     
-    <category term="資安" scheme="http://example.com/tags/%E8%B3%87%E5%AE%89/"/>
+    <category term="資安" scheme="https://renshuutw.github.io/tags/%E8%B3%87%E5%AE%89/"/>
     
   </entry>
   
   <entry>
     <title>WP外掛 | Limit Login Attemps 限制登入次數 防止暴力破解</title>
-    <link href="http://example.com/2019/08/25/how-to-limit-login-attemps-in-wp/"/>
-    <id>http://example.com/2019/08/25/how-to-limit-login-attemps-in-wp/</id>
+    <link href="https://renshuutw.github.io/2019/08/25/how-to-limit-login-attemps-in-wp/"/>
+    <id>https://renshuutw.github.io/2019/08/25/how-to-limit-login-attemps-in-wp/</id>
     <published>2019-08-25T08:53:33.000Z</published>
     <updated>2021-04-14T02:12:55.765Z</updated>
     
@@ -128,17 +128,17 @@
     
     
     
-    <category term="教學" scheme="http://example.com/categories/%E6%95%99%E5%AD%B8/"/>
+    <category term="教學" scheme="https://renshuutw.github.io/categories/%E6%95%99%E5%AD%B8/"/>
     
     
-    <category term="Wordpress" scheme="http://example.com/tags/Wordpress/"/>
+    <category term="Wordpress" scheme="https://renshuutw.github.io/tags/Wordpress/"/>
     
   </entry>
   
   <entry>
     <title>台中 | 早午餐 | 老字號早午餐 Lesson One開啟生活的第一課</title>
-    <link href="http://example.com/2019/08/24/taichung-lesson-one-brunch/"/>
-    <id>http://example.com/2019/08/24/taichung-lesson-one-brunch/</id>
+    <link href="https://renshuutw.github.io/2019/08/24/taichung-lesson-one-brunch/"/>
+    <id>https://renshuutw.github.io/2019/08/24/taichung-lesson-one-brunch/</id>
     <published>2019-08-24T08:53:33.000Z</published>
     <updated>2021-04-14T02:16:33.972Z</updated>
     
@@ -149,21 +149,21 @@
     
     
     
-    <category term="美食" scheme="http://example.com/categories/%E7%BE%8E%E9%A3%9F/"/>
+    <category term="美食" scheme="https://renshuutw.github.io/categories/%E7%BE%8E%E9%A3%9F/"/>
     
     
-    <category term="早午餐" scheme="http://example.com/tags/%E6%97%A9%E5%8D%88%E9%A4%90/"/>
+    <category term="早午餐" scheme="https://renshuutw.github.io/tags/%E6%97%A9%E5%8D%88%E9%A4%90/"/>
     
-    <category term="台中" scheme="http://example.com/tags/%E5%8F%B0%E4%B8%AD/"/>
+    <category term="台中" scheme="https://renshuutw.github.io/tags/%E5%8F%B0%E4%B8%AD/"/>
     
-    <category term="taichung" scheme="http://example.com/tags/taichung/"/>
+    <category term="taichung" scheme="https://renshuutw.github.io/tags/taichung/"/>
     
   </entry>
   
   <entry>
     <title>台中 | 早午餐 | 隱身台中街道 份量十足的渣凳早午餐</title>
-    <link href="http://example.com/2019/07/13/taichung-zhan-deng-brunch/"/>
-    <id>http://example.com/2019/07/13/taichung-zhan-deng-brunch/</id>
+    <link href="https://renshuutw.github.io/2019/07/13/taichung-zhan-deng-brunch/"/>
+    <id>https://renshuutw.github.io/2019/07/13/taichung-zhan-deng-brunch/</id>
     <published>2019-07-13T07:53:33.000Z</published>
     <updated>2021-04-14T02:16:27.100Z</updated>
     
@@ -174,21 +174,21 @@
     
     
     
-    <category term="美食" scheme="http://example.com/categories/%E7%BE%8E%E9%A3%9F/"/>
+    <category term="美食" scheme="https://renshuutw.github.io/categories/%E7%BE%8E%E9%A3%9F/"/>
     
     
-    <category term="早午餐" scheme="http://example.com/tags/%E6%97%A9%E5%8D%88%E9%A4%90/"/>
+    <category term="早午餐" scheme="https://renshuutw.github.io/tags/%E6%97%A9%E5%8D%88%E9%A4%90/"/>
     
-    <category term="台中" scheme="http://example.com/tags/%E5%8F%B0%E4%B8%AD/"/>
+    <category term="台中" scheme="https://renshuutw.github.io/tags/%E5%8F%B0%E4%B8%AD/"/>
     
-    <category term="taichung" scheme="http://example.com/tags/taichung/"/>
+    <category term="taichung" scheme="https://renshuutw.github.io/tags/taichung/"/>
     
   </entry>
   
   <entry>
     <title>2016一開始就給大三元吧</title>
-    <link href="http://example.com/2016/01/10/lets-start-2016-at-3-mountains-in-taichung/"/>
-    <id>http://example.com/2016/01/10/lets-start-2016-at-3-mountains-in-taichung/</id>
+    <link href="https://renshuutw.github.io/2016/01/10/lets-start-2016-at-3-mountains-in-taichung/"/>
+    <id>https://renshuutw.github.io/2016/01/10/lets-start-2016-at-3-mountains-in-taichung/</id>
     <published>2016-01-10T07:53:33.000Z</published>
     <updated>2021-04-14T02:17:43.444Z</updated>
     
@@ -199,19 +199,19 @@
     
     
     
-    <category term="單車" scheme="http://example.com/categories/%E5%96%AE%E8%BB%8A/"/>
+    <category term="單車" scheme="https://renshuutw.github.io/categories/%E5%96%AE%E8%BB%8A/"/>
     
     
-    <category term="台中" scheme="http://example.com/tags/%E5%8F%B0%E4%B8%AD/"/>
+    <category term="台中" scheme="https://renshuutw.github.io/tags/%E5%8F%B0%E4%B8%AD/"/>
     
-    <category term="taichung" scheme="http://example.com/tags/taichung/"/>
+    <category term="taichung" scheme="https://renshuutw.github.io/tags/taichung/"/>
     
   </entry>
   
   <entry>
     <title>在政大的秘密通道</title>
-    <link href="http://example.com/2010/12/03/secret-path-in-nccu/"/>
-    <id>http://example.com/2010/12/03/secret-path-in-nccu/</id>
+    <link href="https://renshuutw.github.io/2010/12/03/secret-path-in-nccu/"/>
+    <id>https://renshuutw.github.io/2010/12/03/secret-path-in-nccu/</id>
     <published>2010-12-03T07:53:33.000Z</published>
     <updated>2021-04-14T02:22:20.644Z</updated>
     
@@ -222,25 +222,25 @@
     
     
     
-    <category term="雜記" scheme="http://example.com/categories/%E9%9B%9C%E8%A8%98/"/>
+    <category term="雜記" scheme="https://renshuutw.github.io/categories/%E9%9B%9C%E8%A8%98/"/>
     
     
-    <category term="台北" scheme="http://example.com/tags/%E5%8F%B0%E5%8C%97/"/>
+    <category term="台北" scheme="https://renshuutw.github.io/tags/%E5%8F%B0%E5%8C%97/"/>
     
-    <category term="文山區" scheme="http://example.com/tags/%E6%96%87%E5%B1%B1%E5%8D%80/"/>
+    <category term="文山區" scheme="https://renshuutw.github.io/tags/%E6%96%87%E5%B1%B1%E5%8D%80/"/>
     
-    <category term="政大" scheme="http://example.com/tags/%E6%94%BF%E5%A4%A7/"/>
+    <category term="政大" scheme="https://renshuutw.github.io/tags/%E6%94%BF%E5%A4%A7/"/>
     
-    <category term="nccu" scheme="http://example.com/tags/nccu/"/>
+    <category term="nccu" scheme="https://renshuutw.github.io/tags/nccu/"/>
     
-    <category term="健行" scheme="http://example.com/tags/%E5%81%A5%E8%A1%8C/"/>
+    <category term="健行" scheme="https://renshuutw.github.io/tags/%E5%81%A5%E8%A1%8C/"/>
     
   </entry>
   
   <entry>
     <title>訪聞芳汶——政大八十之人物專訪</title>
-    <link href="http://example.com/2007/05/27/my-dear-teacher-fwchen/"/>
-    <id>http://example.com/2007/05/27/my-dear-teacher-fwchen/</id>
+    <link href="https://renshuutw.github.io/2007/05/27/my-dear-teacher-fwchen/"/>
+    <id>https://renshuutw.github.io/2007/05/27/my-dear-teacher-fwchen/</id>
     <published>2007-05-27T07:53:33.000Z</published>
     <updated>2021-04-14T02:23:17.620Z</updated>
     
@@ -251,19 +251,19 @@
     
     
     
-    <category term="雜記" scheme="http://example.com/categories/%E9%9B%9C%E8%A8%98/"/>
+    <category term="雜記" scheme="https://renshuutw.github.io/categories/%E9%9B%9C%E8%A8%98/"/>
     
     
-    <category term="政大" scheme="http://example.com/tags/%E6%94%BF%E5%A4%A7/"/>
+    <category term="政大" scheme="https://renshuutw.github.io/tags/%E6%94%BF%E5%A4%A7/"/>
     
-    <category term="nccu" scheme="http://example.com/tags/nccu/"/>
+    <category term="nccu" scheme="https://renshuutw.github.io/tags/nccu/"/>
     
   </entry>
   
   <entry>
     <title>因SodaGreen六人行而相聚</title>
-    <link href="http://example.com/2006/01/10/6friends-get-together-for-sodagreen/"/>
-    <id>http://example.com/2006/01/10/6friends-get-together-for-sodagreen/</id>
+    <link href="https://renshuutw.github.io/2006/01/10/6friends-get-together-for-sodagreen/"/>
+    <id>https://renshuutw.github.io/2006/01/10/6friends-get-together-for-sodagreen/</id>
     <published>2006-01-10T07:53:33.000Z</published>
     <updated>2021-04-14T02:26:20.124Z</updated>
     
@@ -274,19 +274,19 @@
     
     
     
-    <category term="雜記" scheme="http://example.com/categories/%E9%9B%9C%E8%A8%98/"/>
+    <category term="雜記" scheme="https://renshuutw.github.io/categories/%E9%9B%9C%E8%A8%98/"/>
     
     
-    <category term="蘇打綠" scheme="http://example.com/tags/%E8%98%87%E6%89%93%E7%B6%A0/"/>
+    <category term="蘇打綠" scheme="https://renshuutw.github.io/tags/%E8%98%87%E6%89%93%E7%B6%A0/"/>
     
-    <category term="sodagreen" scheme="http://example.com/tags/sodagreen/"/>
+    <category term="sodagreen" scheme="https://renshuutw.github.io/tags/sodagreen/"/>
     
   </entry>
   
   <entry>
     <title>《在天堂遇到的五個人》閱讀筆記</title>
-    <link href="http://example.com/2005/05/19/5-people-meet-in-heaven/"/>
-    <id>http://example.com/2005/05/19/5-people-meet-in-heaven/</id>
+    <link href="https://renshuutw.github.io/2005/05/19/5-people-meet-in-heaven/"/>
+    <id>https://renshuutw.github.io/2005/05/19/5-people-meet-in-heaven/</id>
     <published>2005-05-19T07:53:33.000Z</published>
     <updated>2021-04-14T02:26:16.900Z</updated>
     
@@ -297,10 +297,10 @@
     
     
     
-    <category term="雜記" scheme="http://example.com/categories/%E9%9B%9C%E8%A8%98/"/>
+    <category term="雜記" scheme="https://renshuutw.github.io/categories/%E9%9B%9C%E8%A8%98/"/>
     
     
-    <category term="讀書心得" scheme="http://example.com/tags/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/"/>
+    <category term="讀書心得" scheme="https://renshuutw.github.io/tags/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/"/>
     
   </entry>
   
