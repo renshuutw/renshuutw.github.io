@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>練習出張所</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-04-14T02:16:05.524Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>eikou</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>台中美食 | 岩本町 隱身公益路CP值爆表的日式餐廳 | 現烤鰻魚飯</title>
+    <link href="http://example.com/2021/01/18/delicious-japanese-restaurant-with-cheap-price/"/>
+    <id>http://example.com/2021/01/18/delicious-japanese-restaurant-with-cheap-price/</id>
+    <published>2021-01-18T08:53:33.000Z</published>
+    <updated>2021-04-14T02:16:05.524Z</updated>
+    
+    
+    
+    
+    <category term="美食" scheme="http://example.com/categories/%E7%BE%8E%E9%A3%9F/"/>
+    
+    
+    <category term="日式料理" scheme="http://example.com/tags/%E6%97%A5%E5%BC%8F%E6%96%99%E7%90%86/"/>
+    
+    <category term="台中" scheme="http://example.com/tags/%E5%8F%B0%E4%B8%AD/"/>
+    
+    <category term="taichung" scheme="http://example.com/tags/taichung/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何關閉Apple ID的雙重認證 | 兩步驟驗證 |  取消綁定手機號碼</title>
+    <link href="http://example.com/2021/01/09/how-to-turn-off-apple-id-two-factor-authentication/"/>
+    <id>http://example.com/2021/01/09/how-to-turn-off-apple-id-two-factor-authentication/</id>
+    <published>2021-01-09T08:53:00.000Z</published>
+    <updated>2021-04-14T02:24:41.276Z</updated>
+    
+    <content type="html"><![CDATA[<p>近幾年隨著資安被重視，各家平台服務更加看重使用者登入帳戶的機制，蘋果公司當然也不例外。在近期手機iOS更新時，常常會提示使用者進一步驗證手機號碼，跟Apple ID綁定，也就是所謂的雙重認證（two-factor authentication）。</p><span id="more"></span><p>雙重認證啟用後，後續在新的裝置登入Apple ID時，除了輸入密碼之外，還需要從認證過的裝置（上限至多5個認證裝置）上獲取驗證碼。然而，並非每個人都喜歡這個繁瑣的步驟，當你不小心跟著iOS的「提示」而不小心將雙重認證開啟時，該怎麼辦呢？</p><p>原先想要關閉雙重驗證，是無法在手機或電腦系統設定裡關閉。唯一關閉的途徑是登入AppleID，在個人密碼安全設定頁面關閉。然後，目前此途徑已經失效。</p><h1 id="那到底如何關閉Apple-ID雙重認證呢？"><a href="#那到底如何關閉Apple-ID雙重認證呢？" class="headerlink" title="那到底如何關閉Apple ID雙重認證呢？"></a>那到底如何關閉Apple ID雙重認證呢？</h1><h2 id="1-在Email收件匣找尋系統提示信件"><a href="#1-在Email收件匣找尋系統提示信件" class="headerlink" title="1. 在Email收件匣找尋系統提示信件"></a>1. 在Email收件匣找尋系統提示信件</h2><p>目前唯一關閉的途徑，就是在開啟雙重驗證14天內，透過提示的信件進行關閉。如同下圖，我在2021年1月9日啟用了雙重驗證，只要在1月23日前點選信件裏頭「回復至您先前的安全設定」的連結，即可解除雙重驗證。</p><p> 透過Apple系統所發送的信件，可以在時效前恢復成尚未開啟雙重驗證的設定</p><h2 id="2-停用雙重認證並重設密碼"><a href="#2-停用雙重認證並重設密碼" class="headerlink" title="2. 停用雙重認證並重設密碼"></a>2. 停用雙重認證並重設密碼</h2><p>點選連結後，系統會協助您解除雙重驗證）設定，並重設AppleID的密碼，即可恢復原本未啟用的狀態。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;近幾年隨著資安被重視，各家平台服務更加看重使用者登入帳戶的機制，蘋果公司當然也不例外。在近期手機iOS更新時，常常會提示使用者進一步驗證手機號碼，跟Apple ID綁定，也就是所謂的雙重認證（two-factor authentication）。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="教學" scheme="http://example.com/categories/%E6%95%99%E5%AD%B8/"/>
+    
+    
+    <category term="iPhone" scheme="http://example.com/tags/iPhone/"/>
+    
+    <category term="資安" scheme="http://example.com/tags/%E8%B3%87%E5%AE%89/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>高雄 | 生日優惠 | 老字號新國際西餐廳 肉質鮮嫩讓人心滿意足</title>
+    <link href="http://example.com/2020/12/05/kaohsiung-new-international-restaurant-best-food-with-birthday-price/"/>
+    <id>http://example.com/2020/12/05/kaohsiung-new-international-restaurant-best-food-with-birthday-price/</id>
+    <published>2020-12-05T08:53:33.000Z</published>
+    <updated>2021-04-14T02:15:42.148Z</updated>
+    
+    <content type="html"><![CDATA[<p>每次生日都不知道該怎麼慶祝嗎？又或者其實自己不喜歡帶有尷尬感的慶祝方式，只想簡單吃個豐盛的大餐，滿足自己一下？</p><p>今天想特別介紹的是位在高雄的「新國際西餐廳」，可說是高雄相當老字號，從入口一路走上二樓的空氣，都可以感受餐廳伴隨著高雄發展的歷史。現在餐廳所在位置已是搬遷多次後的結果，一進到用餐空間，擺著復古奢華的桌椅，用餐空間寬敞舒適，也相當乾淨。</p><p>由於是生日當日來訪，可以享有主餐半價的優惠，於是當然得嚐嚐看最頂級的牛排。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;每次生日都不知道該怎麼慶祝嗎？又或者其實自己不喜歡帶有尷尬感的慶祝方式，只想簡單吃個豐盛的大餐，滿足自己一下？&lt;/p&gt;
+&lt;p&gt;今天想特別介紹的是位在高雄的「新國際西餐廳」，可說是高雄相當老字號，從入口一路走上二樓的空氣，都可以感受餐廳伴隨著高雄發展的歷史。現在餐廳所在位置已</summary>
+      
+    
+    
+    
+    <category term="美食" scheme="http://example.com/categories/%E7%BE%8E%E9%A3%9F/"/>
+    
+    
+    <category term="生日優惠" scheme="http://example.com/tags/%E7%94%9F%E6%97%A5%E5%84%AA%E6%83%A0/"/>
+    
+    <category term="排餐" scheme="http://example.com/tags/%E6%8E%92%E9%A4%90/"/>
+    
+    <category term="高雄" scheme="http://example.com/tags/%E9%AB%98%E9%9B%84/"/>
+    
+    <category term="kaohsiung" scheme="http://example.com/tags/kaohsiung/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WP外掛 | WordPress該如何更改登入網址？Lockdown WP幫你輕鬆搞定</title>
+    <link href="http://example.com/2019/08/25/how-to-change-wp-login-url/"/>
+    <id>http://example.com/2019/08/25/how-to-change-wp-login-url/</id>
+    <published>2019-08-25T08:53:33.000Z</published>
+    <updated>2021-04-14T02:13:24.293Z</updated>
+    
+    <content type="html"><![CDATA[<p>現在越來越多人選擇使用Wordpress架設個人部落格。在自架部落格時，尤其要留意資訊安全的問題，在此跟大家介紹怎麼將Wordpress預設的登入頁面修改成自己偏好的網誌。</p><span id="more"></span><p>一般來說，Wordpress的登入頁面網址通常為 根目錄/admin 或是 根目錄/wp-admin，也就是網路使用者可以直接在網址後方加上 admin 就能抵達登入頁面。這個你知、我知，而網路上不懷善意的駭客也知，若想密碼破解必然會來到登入頁動手，因此修改登入網址算是自架WP的首要之務。這時，其實我們只需要一個簡單的Wordpress外掛，就能輕鬆解決網址太好猜的問題。（建議同時配合Limit Login Attemps，提升網站安全度）</p><h2 id="安裝外掛"><a href="#安裝外掛" class="headerlink" title="安裝外掛"></a>安裝外掛</h2><p>登入後台，點選「外掛」，並新增外掛。於搜尋欄輸入Lockdown WP，並立即安裝、啟用。</p><p>在新增外掛頁面，右側搜尋欄填上lockdown admin即可找到今天所介紹的外掛</p><p>輕輕點下安裝，安裝完畢並啟用</p><h2 id="設定Lockdown-WP"><a href="#設定Lockdown-WP" class="headerlink" title="設定Lockdown WP"></a>設定Lockdown WP</h2><p>Lockdown WP的設定介面很簡潔，只要在文字框內填上想要的單字即可。切記，千萬不要設定太容易被猜到字詞，可能常出現在部落格裡，或是個人常用的暱稱、單字等，修改網址是為了增加一層防護。</p><p>Lockdown WP的設定頁面相當簡單，只需在文字框填上想使用的單字，再按下儲存(Save Options)即可完成<br>從此之後，當要登入WP後台時，記得改用自己設定的網址即可。是不是相當簡單又方便呢？</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;現在越來越多人選擇使用Wordpress架設個人部落格。在自架部落格時，尤其要留意資訊安全的問題，在此跟大家介紹怎麼將Wordpress預設的登入頁面修改成自己偏好的網誌。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="教學" scheme="http://example.com/categories/%E6%95%99%E5%AD%B8/"/>
+    
+    
+    <category term="Wordpress" scheme="http://example.com/tags/Wordpress/"/>
+    
+    <category term="資安" scheme="http://example.com/tags/%E8%B3%87%E5%AE%89/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WP外掛 | Limit Login Attemps 限制登入次數 防止暴力破解</title>
+    <link href="http://example.com/2019/08/25/how-to-limit-login-attemps-in-wp/"/>
+    <id>http://example.com/2019/08/25/how-to-limit-login-attemps-in-wp/</id>
+    <published>2019-08-25T08:53:33.000Z</published>
+    <updated>2021-04-14T02:12:55.765Z</updated>
+    
+    <content type="html"><![CDATA[<p>在Wordpress預設並沒有限制使用者在後台登入的次數，也就是你在後台密碼填錯了多少次，WP還是會讓你繼續試、一直試，雖然說對於容易忘記密碼的人來說很方便，但這方便之門除了對你敞開外，也對網路上心懷不軌的使用者敞開。</p><span id="more"></span><p>因此，最好還是限制同個IP的登入次數，降低被破解的風險，如同許多大型網站Gmail或Facebook等對於登入嘗試次數也是有次數限制，畢竟嘗試次數太多就已經是異常了。</p><p>個人架設Wordpress的資安議題上，Eikou建議務必安裝Limit Login Attemps外掛，以防有心人士暴力破解登入網站。</p><h1 id="安裝Limit-Login-Attemps外掛"><a href="#安裝Limit-Login-Attemps外掛" class="headerlink" title="安裝Limit Login Attemps外掛"></a>安裝Limit Login Attemps外掛</h1><h2 id="搜尋並安裝外掛"><a href="#搜尋並安裝外掛" class="headerlink" title="搜尋並安裝外掛"></a>搜尋並安裝外掛</h2><p>在安裝外掛，搜尋limit login attemps，通常搜尋第一個結果就是，安裝並啟用。</p><p>搜尋limit login字樣即可找到相關限制登入的外掛</p><p>搜尋結果第一個即是我們今天的主角 Limit Login Attemps Reloaded，左下角可以看到有超過百萬次的安裝，由此可觀察出Wordpress使用者的愛戴</p><h2 id="啟用外掛設定參數"><a href="#啟用外掛設定參數" class="headerlink" title="啟用外掛設定參數"></a>啟用外掛設定參數</h2><p>新安裝好的外掛設定頁面在左側欄： 【設定】—【Limit Login Attemps】。<br>在設定頁面，我們可以調整限制登入的參數，像是要嘗試多少次會限制登入，以及被鎖定後該使用者需要等候多久才能再次嘗試登入，由於已經有前輩幫我們都翻譯成中文了，所以很淺顯易懂。確定好即可儲存，此即完成設定。</p><p>Limit Login Attemps的設定藏在左欄設定下方</p><h2 id="可依個人喜好調整限制登入次數的參數"><a href="#可依個人喜好調整限制登入次數的參數" class="headerlink" title="可依個人喜好調整限制登入次數的參數"></a>可依個人喜好調整限制登入次數的參數</h2><p>這個外掛還提供E-mail通知站台鎖定的功能，讓你不用特別登入後台，即可知道有人正在嘗試破解。此外，還有設定IP白名單及黑名單的地方，如果家中或公司的網路是使用固定IP，即可避開鎖定，如果自己有點小迷糊、容易忘記密碼，這也是避免自己也被鎖的方法。（但切記一定是私人使用的電腦）</p><p>安裝好Limit Login Attemps，建議同時安裝Lockdown WP，修改預設的登入頁面網址，也是降低後台被破解的方法喔！</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;在Wordpress預設並沒有限制使用者在後台登入的次數，也就是你在後台密碼填錯了多少次，WP還是會讓你繼續試、一直試，雖然說對於容易忘記密碼的人來說很方便，但這方便之門除了對你敞開外，也對網路上心懷不軌的使用者敞開。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="教學" scheme="http://example.com/categories/%E6%95%99%E5%AD%B8/"/>
+    
+    
+    <category term="Wordpress" scheme="http://example.com/tags/Wordpress/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>台中 | 早午餐 | 老字號早午餐 Lesson One開啟生活的第一課</title>
+    <link href="http://example.com/2019/08/24/taichung-lesson-one-brunch/"/>
+    <id>http://example.com/2019/08/24/taichung-lesson-one-brunch/</id>
+    <published>2019-08-24T08:53:33.000Z</published>
+    <updated>2021-04-14T02:16:33.972Z</updated>
+    
+    <content type="html"><![CDATA[<p>Lesson One早午餐在台中可說是老字號的早午餐，創立於2005年，經過十餘年的顧客的見證，想必有一定品質保證。Lesson One位在台中女中跟台中法院附近，離台中車站不算太遠，算是台中很受歡迎的早餐店，雖然店內座位數頗多，但若想嘗試的人最好還是事先電話預約，我們一行人入座沒多久，沒多久又客滿了。</p><span id="more"></span><p>簡潔空間佈置，座位多是兩人座，也很適合情侶在假日來一場早餐約會<br>Lesson One最大的特點是無限暢飲的自助飲料吧，除了咖啡機外，也提供果汁（紅蘿蔔芒果汁）、巧克力麥芽等供客人取用，此外，也有提供茶包，可說是相當齊全。</p><p>小小區塊的飲料吧，可以讓一起聚餐的朋友各取所需</p><p>Lesson One菜單，現金消費不加服務費<br>餐點與一般早午餐店相似，食材水準中上。非常推薦到台中小旅行，早上想愜意享用早餐的旅人。</p><p>餐點：Lesson One簡單吃</p><p>餐點：Lesson One國王吃早午餐</p><p>除了基本餐點，可另外加價添購濃湯及沙拉</p><p>店內提供的番茄醬是亨氏番茄醬，可加價搭配套餐，就能享有照片上看到的沙拉、飲料、優格、當季水果。沙拉的部分則可以選用塔塔醬、蜂蜜芥末、蘋果醋泥等三種醬料。一個人大概花個200初頭，就能獲得大大滿足。要說唯一美中不足的地方，應該是廚房抽油煙的效率不好，吃完應該會沾染到一身油煙味。</p><h3 id="營業資訊"><a href="#營業資訊" class="headerlink" title="營業資訊"></a>營業資訊</h3><ul><li>地址 403台中市西區市府路23號</li><li>電話 04 2223 6600</li><li>粉絲專頁 <a href="https://www.facebook.com/lessononegroup/">https://www.facebook.com/lessononegroup/</a></li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Lesson One早午餐在台中可說是老字號的早午餐，創立於2005年，經過十餘年的顧客的見證，想必有一定品質保證。Lesson One位在台中女中跟台中法院附近，離台中車站不算太遠，算是台中很受歡迎的早餐店，雖然店內座位數頗多，但若想嘗試的人最好還是事先電話預約，我們一行人入座沒多久，沒多久又客滿了。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="美食" scheme="http://example.com/categories/%E7%BE%8E%E9%A3%9F/"/>
+    
+    
+    <category term="早午餐" scheme="http://example.com/tags/%E6%97%A9%E5%8D%88%E9%A4%90/"/>
+    
+    <category term="台中" scheme="http://example.com/tags/%E5%8F%B0%E4%B8%AD/"/>
+    
+    <category term="taichung" scheme="http://example.com/tags/taichung/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>台中 | 早午餐 | 隱身台中街道 份量十足的渣凳早午餐</title>
+    <link href="http://example.com/2019/07/13/taichung-zhan-deng-brunch/"/>
+    <id>http://example.com/2019/07/13/taichung-zhan-deng-brunch/</id>
+    <published>2019-07-13T07:53:33.000Z</published>
+    <updated>2021-04-14T02:16:27.100Z</updated>
+    
+    <content type="html"><![CDATA[<p>這次要推薦的早午餐店，是位於台中東區力行路巷子的渣凳早午餐。渣凳這麼名字，唸起來就像是台語「早餐」的發音。第一次騎進巷子，很容易直接忽略招牌，稍微放大眼睛瞧瞧還是可以看到小巧別緻的盆栽及小黑板。</p><span id="more"></span><p>渣凳的用餐空間是老房子，騎車過去很容易忽略<br>門口擺設許多小盆栽造景</p><p>渣凳的用餐空間不算大，大約一次可以服務8~10組客人，裡頭的裝設走工業風，也是很適合拍照的餐廳。如果想吃的話，記得事先預約，以免在現場等候。</p><p>上餐時，覺得份量看起來普通，但吃完倒是有飽足感，好享受大口大口咬著漢堡的時刻。渣凳所採用的漢堡麵包是以白米磨成粉製作，加上有烘烤過，跟平常的漢堡麵包口感有些不同，漢堡肉的部分則相當厚實，感受得到他們備料的用心。</p><p>選好主食，可加價搭配套餐，就能享有照片上看到的沙拉、飲料、優格、當季水果。沙拉的部分則可以選用塔塔醬、蜂蜜芥末、蘋果醋泥等三種醬料。一個人大概花個200初頭，就能獲得大大滿足。要說唯一美中不足的地方，應該是廚房抽油煙的效率不好，吃完應該會沾染到一身油煙味。</p><h3 id="營業資訊"><a href="#營業資訊" class="headerlink" title="營業資訊"></a>營業資訊</h3><p>地址：台中市東區力行路80-6號<br>電話：04 2360 9323</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;這次要推薦的早午餐店，是位於台中東區力行路巷子的渣凳早午餐。渣凳這麼名字，唸起來就像是台語「早餐」的發音。第一次騎進巷子，很容易直接忽略招牌，稍微放大眼睛瞧瞧還是可以看到小巧別緻的盆栽及小黑板。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="美食" scheme="http://example.com/categories/%E7%BE%8E%E9%A3%9F/"/>
+    
+    
+    <category term="早午餐" scheme="http://example.com/tags/%E6%97%A9%E5%8D%88%E9%A4%90/"/>
+    
+    <category term="台中" scheme="http://example.com/tags/%E5%8F%B0%E4%B8%AD/"/>
+    
+    <category term="taichung" scheme="http://example.com/tags/taichung/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2016一開始就給大三元吧</title>
+    <link href="http://example.com/2016/01/10/lets-start-2016-at-3-mountains-in-taichung/"/>
+    <id>http://example.com/2016/01/10/lets-start-2016-at-3-mountains-in-taichung/</id>
+    <published>2016-01-10T07:53:33.000Z</published>
+    <updated>2021-04-14T02:17:43.444Z</updated>
+    
+    <content type="html"><![CDATA[<p>大三元是台中自行車的經典路線，幾乎有接觸公路車的中部車友們都曾聽過，顧名思義在路線上總共有三座山等著你去征服，分別是中興嶺、白毛山及赤崁頂。</p><span id="more"></span><p>本次是參加TWB舉辦的挑戰大三元活動。早上5點和車友提前約在小七用餐，一塊騎個10k到活動會場，也算是順便進行……一個⋯⋯暖身的動作。延著河岸騎，邊騎邊想睡，風吹起來有點冷。</p><p>到了起點，眾人集結，人數意外比想像多，跟去年同單位舉辦的活動比起來，真的多很多。在等待出發時，看到久未見過的日出，美麗的天空為今天的騎乘揭開序幕。</p><p>約莫6點50出發，中興嶺 算我蠻熟悉的路線，經大坑往新社走，因為常騎比較清楚路況，這段過程算是蠻順利的，除了接近中興嶺上坡路段，由於仍在拓寬工程，有大批騎士與車爭道的情況，但過了中興嶺一切就平順。接著就是一路滑行來到了東勢，走台8再轉台21往白毛山方向前進。</p><p>這一路上發現梅花已經開了，到了第一個補給點，就狂填肚子，邊吃邊看到 Ho PingFai 直接呼嘯而過，不愧是年輕新秀，狂衝啦！</p><p>爬上 白毛山的路上，實在是很想……坐車(誤)，總之也是一路緩緩爬行，到山頂當然得來一顆 白毛山-羊奶頭茶葉蛋來犒賞自己，但這天店家很摳門，不單賣茶葉蛋，只能買飲品附贈。</p><p>白毛山到國姓市區一路也都是下滑，實在過癮，但邊滑邊想到下一座赤崁頂又得重新來過，有點擔心會沒體力。</p><p>天氣大概在進入國姓市區時才放晴，太陽終於露臉，身子也漸漸暖多了。從國姓市區到136縣道終點的萊爾富，這段也是挺熟悉的，先前騎日月潭就來來回回經過，這段路也是不錯輕鬆。</p><p>往 136赤崁頂 的路上，對向不少重機騎士，這段路是中部的熱門追焦路線。最後這段腳也快沒力了，騎騎停停，後來在一個前輩建議，還是邊走邊讓腳恢復，大概有兩個大坡就到了赤崁頂，相較西進，其實國姓過來的路輕鬆許多(但還是腳痠)，過了那顆赤崁頂大石，又是暢快的滑行時間，也因之前走過西邊這段，熟悉感讓自己放鬆很多。</p><p>接著就是回到終點大吃特吃，時間約莫12點半，相較前一年跑來觀摩，廣場上人還蠻多，大家今年完騎的時間似乎有些延遲。</p><p>簡單炒麵填飽眾騎士的胃，食物是用大面桶送到領取桌，實在是很好餵食<br>最後，也在3碗炒麵、2杯仙草甘茶、1顆橘子的陪伴下，結束第一次的大三元挑戰。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;大三元是台中自行車的經典路線，幾乎有接觸公路車的中部車友們都曾聽過，顧名思義在路線上總共有三座山等著你去征服，分別是中興嶺、白毛山及赤崁頂。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="單車" scheme="http://example.com/categories/%E5%96%AE%E8%BB%8A/"/>
+    
+    
+    <category term="台中" scheme="http://example.com/tags/%E5%8F%B0%E4%B8%AD/"/>
+    
+    <category term="taichung" scheme="http://example.com/tags/taichung/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在政大的秘密通道</title>
+    <link href="http://example.com/2010/12/03/secret-path-in-nccu/"/>
+    <id>http://example.com/2010/12/03/secret-path-in-nccu/</id>
+    <published>2010-12-03T07:53:33.000Z</published>
+    <updated>2021-04-14T02:22:20.644Z</updated>
+    
+    <content type="html"><![CDATA[<p>它很顯而易見，卻又不易讓人發現它的存在，那是在溪畔的一條小徑，一尾青蛇靜默地躺在半山腰，平時頂多只有零星登山客來叨擾，這是藏在政大裡頭的秘密通道。</p><span id="more"></span><p>秘密並不隱密，只是很少人知道，它將自己藏得很好，避免自己受到太多的污染，卻又能供人通行。通往蛇口的道路卻意外的寬廣，先從橋旁的階梯走下，即到了乳白色的大道，一旁的溪水因窄小而枯竭，路旁的野薑花卻不斷綻放，像是受了某種魔法似地不去理睬季節的召喚。</p><p>剛踏進翠綠的幽徑時，往往會有種新鮮感，那是來自周遭守衛的綠樹。一條路延伸至遠處，儼然已形成這座山的「星光大道」。一個人獨自向上步行，一階一階地， 彷若向天上雲間走去，特別是隨著周遭的寧靜，寧靜中又帶著淡淡的聲息，像律動的節奏般，成了耳朵的饗宴。在這裡，少了點喧囂，這個少了人的地方，活著更多 不知名、或渺小、好動、或害羞的生物，而它們卻顯得親近許多。</p><p>行走間，植物較長的「觸角」輕拂在臉上，偶而會碰見一棵柚子樹，它的葉片 善於喬裝成檸檬，聞起來淡淡芬芳；秋高氣爽時，常會意外地見到桂花的繁盛，祈求它能自行蹦到地上，因為我的不捨摘下；白頭翁成了串場的嘉賓，幾聲啾啾令人 忘憂，不自覺將目標移轉到它身上；雖然，在路程的最後人面蜘蛛露出僵硬的微笑，它卻是在告訴我們別忘了心情的最佳藥劑，那是淡淡的微笑。</p><p>在一次次的探訪中，最令人嘆為觀止的是發現到潛藏政大的鄰居，只可惜未能與多人共享。秘密通道的路程不長，卻讓人覺得比外面的世界開闊許多，減少幾分「人 味」，卻另有番土味，它似乎更加接近可供休息的涼亭。沿著路走，一路向上爬，也一步步走進政大的秘密後院。這段路程少了明確的目標，卻因而獲得更豐富的享 受。</p><p>幽靜的蛇，不發一語的躺在山腰，口朝綠水以求解渴，內心卻是無法掩飾的綠色魔力，盼望著每個發現他的人，將因此獲得救贖。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;它很顯而易見，卻又不易讓人發現它的存在，那是在溪畔的一條小徑，一尾青蛇靜默地躺在半山腰，平時頂多只有零星登山客來叨擾，這是藏在政大裡頭的秘密通道。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="雜記" scheme="http://example.com/categories/%E9%9B%9C%E8%A8%98/"/>
+    
+    
+    <category term="台北" scheme="http://example.com/tags/%E5%8F%B0%E5%8C%97/"/>
+    
+    <category term="文山區" scheme="http://example.com/tags/%E6%96%87%E5%B1%B1%E5%8D%80/"/>
+    
+    <category term="政大" scheme="http://example.com/tags/%E6%94%BF%E5%A4%A7/"/>
+    
+    <category term="nccu" scheme="http://example.com/tags/nccu/"/>
+    
+    <category term="健行" scheme="http://example.com/tags/%E5%81%A5%E8%A1%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>訪聞芳汶——政大八十之人物專訪</title>
+    <link href="http://example.com/2007/05/27/my-dear-teacher-fwchen/"/>
+    <id>http://example.com/2007/05/27/my-dear-teacher-fwchen/</id>
+    <published>2007-05-27T07:53:33.000Z</published>
+    <updated>2021-04-14T02:23:17.620Z</updated>
+    
+    <content type="html"><![CDATA[<p>隨著上課鐘響，教室裡頭的學生趕緊乖乖就座，交談的聲音逐漸靜默，大部分的學生都將雙眼的目光聚焦在前頭這位陌生的女子，打量著她的一舉一動，或欣賞著這位老師的神采。這是大一上學期第一次的國文通識課，課程內容是「古典詩選讀」，而前頭那位溫文儒雅的老師即是陳芳汶。</p><span id="more"></span><p>陳芳汶在課堂開始，並沒有直接將主題切入文學的殿堂，反而是關心起大一學子近來的生活狀況。她自期在擔任教師之外，也能隨時扮演學生在政大的家人，如同媽媽一樣地呵護著學生。但擔心自己的關心會有遺漏，她說：「或許你們看不大出來，其實我在面對各位還是有點緊張，雖然剛剛感覺起來像是在聊天，但我今天跟各位聊的話題都是預先準備好的。」</p><p>陳芳汶並不喜歡師生間隔著一條太過明顯的界線，她覺得界線會阻礙與學生的互動，並減少學生在課堂上觸發的機會。在課程上，她喜歡將古典詩詞中的情感帶到現實生活中。她說文學常常是「有感而發」的，並引用龍應台提及的文學的最大功能——「使看不見的東西被看見」(macht sichtbar)作為課程經營核心。當中，不乏生活中的小故事，她喜歡與學生們一起努力「看見」那份看不見的情感。</p><p>此外，每當學生有什麼疑問或是心事時，她總是很樂意傾聽並與之討論可能的解決方案。特別是透過擔任彰友會的指導老師，芳汶變得更貼近這群正處年少輕狂的學生。即便有人認為這類校友會的實質意義不大，但芳汶卻覺得這類社團乃是賦予教育的一大意義：「傳承」。</p><p>回想起當時離開政大的自己，她說「那是懷著感激的心踏出校園，政大給我很豐富的學養與知識，而且我很期待出社會受檢驗，我有十足的信心。」等到回來任教才發現，政大有時卻忽略身為人文素養殿堂所應有「以人為本」的信念。</p><p>當時芳汶是在因緣際會下才返回母校任教。「在我人生的許多經驗中，在在證明當自己默默認真扮演自己的角色時，就得以被看見、注意。」這也使她認為並非事事都能預先計畫。更重要的是，以相對稚嫩的現在為可能更為成熟的未來規畫，並不是真正理性的。但這短程計畫還是可行，例如大一學生計畫大學四年幾個重要的目標。</p><p>最後，對於政大邁入第八十個年頭，陳芳汶卻發出一些感慨。她覺得，近來她是藉外在佈置才留意到「政大八十」，反而不是因為「政大八十」的內涵提醒了她。因此，歡樂的慶祝活動之後，反而更添人們心中空虛。在近來課堂中，她也發現類似趨勢：品味(內涵)逐漸平庸。因此，她期許學生能多觀摩經典，養成閱讀習慣，以求未來成為富人文素養的全球化公民。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;隨著上課鐘響，教室裡頭的學生趕緊乖乖就座，交談的聲音逐漸靜默，大部分的學生都將雙眼的目光聚焦在前頭這位陌生的女子，打量著她的一舉一動，或欣賞著這位老師的神采。這是大一上學期第一次的國文通識課，課程內容是「古典詩選讀」，而前頭那位溫文儒雅的老師即是陳芳汶。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="雜記" scheme="http://example.com/categories/%E9%9B%9C%E8%A8%98/"/>
+    
+    
+    <category term="政大" scheme="http://example.com/tags/%E6%94%BF%E5%A4%A7/"/>
+    
+    <category term="nccu" scheme="http://example.com/tags/nccu/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>因SodaGreen六人行而相聚</title>
+    <link href="http://example.com/2006/01/10/6friends-get-together-for-sodagreen/"/>
+    <id>http://example.com/2006/01/10/6friends-get-together-for-sodagreen/</id>
+    <published>2006-01-10T07:53:33.000Z</published>
+    <updated>2021-04-14T02:26:20.124Z</updated>
+    
+    <content type="html"><![CDATA[<p>一到 THE WALL出口就看到大排長龍的隊伍，這是演唱會最令人熟悉的部份，一夥人彼此不認識，卻為了同個目的而堅持地等待。在我們等候的時候，忠實的歌迷撒格那馬上前往預購蘇打綠的第二張專輯「小宇宙」。等了一個多小時，終於等到進場的時候了……</p><span id="more"></span><p>當天的人真的挺多的，印象中好像一場的票數是六百張，只是THE WALL的空間好像有點小，但重點是蘇打綠的演出，於是也沒抱怨太多，我們一夥兒就在黑暗中，候著蘇打綠的精湛演出……</p><p>起先，他們一出場，當然博得全場的歡呼，「第一首組曲」，《後悔莫及》的旋律相當熟悉，或許對於歌詞的掌握度頗差，但總能哼上個幾句。雖然說，途中有點小狀況，例如音響之類的有些毛病，但都不至於破壞打綠演出的完整性。</p><p>在活動海報上有預先提及會有特別嘉賓到場，而今日的特別嘉賓是——「陳雷」(阿福扮演)。阿福的台語破破的，不大會講，整個人看起來就挺忠厚老實樣的說，但他可是很認真詮釋著《歡喜就好》(陳雷一首紅透半邊天的歌曲)。</p><p>中場休息時播放了一些側拍實錄，有些逗趣畫面都記錄下來，在加上一些字幕的詮釋，都逗的大家笑個不停，唯一美中不足的是——太多人頭擋住視線。後半場的表演也是很棒，最後預告僅剩兩首曲目時，大家異口同聲發出「蛤」聲逗的主唱青峰心中可是歡心的不得了。</p><p>「原定」最後一首《小宇宙》演出過後，卻留有一段精彩的部份。螢幕上打出光線，音響也發出聲音，同樣的旋律，這是「小宇宙」初步的MV（全球大首播）。由於提及「宇宙」的概念，整個影片的感覺就很有時間的元素在裡頭，藉由運動的來回（快轉、慢速播放、倒帶之類的特效）突顯出這個宇宙中每個小角落的動態演出，整體真的很棒，想當然耳，影片播放完大家還是高聲喊著encore期盼打綠可以再出來現唱一首。最後，不負眾望，又是一個曲目的演出，打綠真的把歌迷逗的團團轉，最終以「小情歌」向各位粉絲做道別，在這之前青峰講了很多話，感覺是想讓大家在一起待久一點。到了最後，我有種不想離開的感覺，但還是跟著大家慢慢步出門外，而光頭佬則是預購了一張《小宇宙》。光頭佬與海螺頭對於此次演唱會的評價頗佳的，跟原本的態度真的有一百八十度的不同。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;一到 THE WALL出口就看到大排長龍的隊伍，這是演唱會最令人熟悉的部份，一夥人彼此不認識，卻為了同個目的而堅持地等待。在我們等候的時候，忠實的歌迷撒格那馬上前往預購蘇打綠的第二張專輯「小宇宙」。等了一個多小時，終於等到進場的時候了……&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="雜記" scheme="http://example.com/categories/%E9%9B%9C%E8%A8%98/"/>
+    
+    
+    <category term="蘇打綠" scheme="http://example.com/tags/%E8%98%87%E6%89%93%E7%B6%A0/"/>
+    
+    <category term="sodagreen" scheme="http://example.com/tags/sodagreen/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《在天堂遇到的五個人》閱讀筆記</title>
+    <link href="http://example.com/2005/05/19/5-people-meet-in-heaven/"/>
+    <id>http://example.com/2005/05/19/5-people-meet-in-heaven/</id>
+    <published>2005-05-19T07:53:33.000Z</published>
+    <updated>2021-04-14T02:26:16.900Z</updated>
+    
+    <content type="html"><![CDATA[<p>作者米奇‧艾爾邦(Mitch Albom)他原意是要寫給他的舅舅的，主角是一位叫做艾迪的遊樂場維修工人，故事發生的時間是他八十三歲的生日，死亡前的一個小時。</p><span id="more"></span><p>有時候，結束可能是另一個開端，整個故事就從這裡寫起，先從主角的結局，他是一個整天覺得煩悶的維修工人，常常認為自己沒什麼存在的意義，等到他為了一個小女孩的生命而犧牲時，他到了天堂，書中所構置的天堂，是一個可以恣意到自己嚮往去的地方，而且，每個人到天堂的第一道關卡就是─面對自己生命中曾出現的五個人，這五個人會分享許多的經驗、回憶、歡樂、悲痛給你。</p><p>他第一個遇到的是─藍膚人。</p><p>或許這聽起來有點奇怪，但顧名思義，藍膚人，即為皮膚是藍色的人，他並不是天生就如此，是因為中毒的關係而造成的，他這一生，最終幫他按下開關的就是本書的主角─艾迪，但是當時小艾迪並不知道自己曾讓一個活生生的人離開了這個世界，所以，當他聽聞到藍膚人敘述起這件事時，相當的驚訝！並且他也認為這世界實在是相當的不公平！世界難以去看到他的公平性，當一個人死去時，卻是讓另一個活著你永遠不知道誰會幫你頂替你在死亡班機上所取消掉的位置。世界都是一直這樣進行著，因此，你也可能是因為讓別人活下來而死去的。</p><p>第二位是當兵時的小隊長，當時令他所崇敬的小隊長，沒想到竟是讓他行動不便的兇手，這讓他一時氣憤起來。然而，小隊長也教會了他犧牲的意義。事實上，之所以會開槍而使他行動不便的原因在於要停止艾迪在長久爭戰後所按耐不住的激動，他當時一直向大火中跑去，因此為了拯救他的命，小隊長逼不得已就….但最中小隊長並未跟著艾迪還有同袍一起回國。他，在一次堪地的時候，誤採地雷而陣亡了。</p><p>第三位是一個他所不曾看過的人─露比小姐。奇怪？素昧平生，為啥會是她來成為第三個我在天堂遇到的人呢？其實，在那位女士說明後才得知，艾迪生前所工作的海灘，即「露比海灘」即是以她命名的，這位女士是來化解艾迪跟父親之間的恩怨，因為命運的安排。就在父親病危時，由於經濟的問題而得住進雙人房的單人床病房，哪知躺在父親隔壁的，竟是「露比海灘」最初的開發人，這時露比身為人婦，當然在旁陪著他先生。雖然不知道事情的前因後果，但露比女士告訴艾迪他父親在最後一晚所做的事。他，望窗外試著喊出老婆、孩子們的名字，即便他知道她們應該在離這有一段距離的地方。當時，他的身子相當的虛弱，加上他往窗外時所受的風寒感，他離開了這個世界艾迪聽了當然相當的悲慟…..</p><p>第四位─身命中最重要的女性之一，我的老婆瑪格利特。天堂的世界變幻多端，現在場景來到了各國各式各樣的婚禮中，只要一從門走出，就會撞見一個異於本地的婚禮，在從那端走回來。這邊的場景又變了⋯⋯艾迪感到有點徬徨，但此時在這典禮中，那位新娘走了過來，說「願甘共苦嗎？」這時艾迪認出來了，這位是他離開人世多年的老婆，心中無比的思念澎湃而起，似乎快要爆發出來。</p><p>當然，這第四個人的分享時間也過的特別久，但艾迪也不知到底過了幾個小時、幾天、幾月或是幾年？</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;作者米奇‧艾爾邦(Mitch Albom)他原意是要寫給他的舅舅的，主角是一位叫做艾迪的遊樂場維修工人，故事發生的時間是他八十三歲的生日，死亡前的一個小時。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="雜記" scheme="http://example.com/categories/%E9%9B%9C%E8%A8%98/"/>
+    
+    
+    <category term="讀書心得" scheme="http://example.com/tags/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/"/>
+    
+  </entry>
+  
+</feed>
