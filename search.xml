@@ -284,4 +284,38 @@
         <tag>Android</tag>
       </tags>
   </entry>
+  <entry>
+    <title>如何下載在Google上頭的資料 | Google相簿限制容量 | 備份資料</title>
+    <url>/how-to-download-data-from-google/</url>
+    <content><![CDATA[<p>Google在雲端空間的使用規則上有了大幅度的調整，從2021年6月1日起，Google相簿不再是免費了！對於Google的政策，你有了對應的方案了嗎？如果你是打算另外找喜歡的雲端空間，若是想轉移陣地，那是不是該把原本存放在Google相簿上頭的照片下載下來呢？</p>
+<span id="more"></span>
+
+<p>近年來，隨著Google的龐大觸角，生活上許多網路應用服務都仰賴Google大神，在陸續收購各個網路公司之後，Google在後台個人資料設定的整合性，也是越來越好。現在要下載Google上頭的個人資料，也就越來越簡便了。</p>
+<h1 id="如何下載在Google上的資料"><a href="#如何下載在Google上的資料" class="headerlink" title="如何下載在Google上的資料"></a>如何下載在Google上的資料</h1><h2 id="登入個人帳號設定"><a href="#登入個人帳號設定" class="headerlink" title="登入個人帳號設定"></a>登入個人帳號設定</h2><p>首先，請先登入Google個人帳號的設定頁面</p>
+<blockquote>
+<p>Google個人帳號設定網址：<a href="https://myaccount.google.com/">https://myaccount.google.com/</a></p>
+</blockquote>
+<p>管理個人資訊的頁面相當簡潔，可以看出目前使用的雲端空間大小、安全性問題及隱私權設定建議等。</p>
+<h2 id="點選左側的「資料和個人化」"><a href="#點選左側的「資料和個人化」" class="headerlink" title="點選左側的「資料和個人化」"></a>點選左側的「資料和個人化」</h2><p>接著往下滑可以看到「下載、刪除資料」的字樣，這就是今天的主角啦！<br><img src="https://res.cloudinary.com/renshuu/image/upload/v1622098146/download-data_le4dac.jpg" alt="下載、刪除資料區塊" title="下載、刪除資料區塊"></p>
+<blockquote>
+<p>Google打包下載網址：<a href="https://takeout.google.com/?hl=zh-TW">https://takeout.google.com/?hl=zh-TW</a></p>
+</blockquote>
+<p>在這裡，可以下載個人已經存在Google上頭的各種資料。不僅是郵件、聯絡人，包含Google相簿的資料也可在此選擇下載。光看網址「takeout」就可以知道這邊是方便大家「打包」的地方。</p>
+<h2 id="選取欲打包的資料"><a href="#選取欲打包的資料" class="headerlink" title="選取欲打包的資料"></a>選取欲打包的資料</h2><p>在此我僅勾選Google相簿的部分，下方的按鈕可以供個人選擇特定的相簿進行匯出（打包）。<br><img src="https://res.cloudinary.com/renshuu/image/upload/v1622098115/google-photo_qjq1cc.jpg" alt="勾選Google相簿" title="勾選Google相簿"></p>
+<p><img src="https://res.cloudinary.com/renshuu/image/upload/v1622098148/google-photo-takeout-option_puekjp.jpg" alt="也可以只選擇特定幾本相簿匯出" title="也可以只選擇特定幾本相簿匯出"></p>
+<p>點選下一步，可選擇匯出的頻率及檔案類型和大小，如果想避免匯出時分割成太多個檔案，可以在大小地方選擇大一點的選項，Google提供最大一次打包50GB的選項，可說是相當方便。<br><img src="https://res.cloudinary.com/renshuu/image/upload/v1622098142/export_xnabkh.jpg" alt="選擇匯出的頻率及細節" title="選擇匯出的頻率及細節"></p>
+<p><img src="https://res.cloudinary.com/renshuu/image/upload/v1622098158/size-option_ebsvwo.jpg" alt="打包的檔案最大支援到50GB" title="打包的檔案最大支援到50GB"></p>
+<h2 id="等待Google系統提供下載連結"><a href="#等待Google系統提供下載連結" class="headerlink" title="等待Google系統提供下載連結"></a>等待Google系統提供下載連結</h2><p>根據所選擇的檔案數量及大小，Google需要花一點時間將所選範圍的資料打包、匯出，等到匯出排程工作完成後，即會寄信到你的Gmail通知。</p>
+<p><img src="https://res.cloudinary.com/renshuu/image/upload/v1622098549/email-notification_ddron3.jpg" alt="Gmail會收到匯出完成的通知" title="Gmail會收到匯出完成的通知"></p>
+<p>匯出後的檔案列表是有「有效期限」，記得在失效前完成下載！</p>
+]]></content>
+      <categories>
+        <category>教學</category>
+      </categories>
+      <tags>
+        <tag>雲端空間</tag>
+        <tag>Google</tag>
+        <tag>Google Photo</tag>
+      </tags>
+  </entry>
 </search>
