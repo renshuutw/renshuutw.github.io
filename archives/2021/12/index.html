@@ -9,7 +9,7 @@
     
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   <title>
-    舊手機新體驗 | Sony ZL也能升級Android9 | 非官方ROM |  練習出張所
+    Archives: 2021/12 |  練習出張所
   </title>
   <meta name="generator" content="hexo-theme-ayer">
   
@@ -56,169 +56,68 @@ ga('send', 'pageview');
       
     <main class="content on">
       <section class="outer">
-  <article
-  id="post-how-to-upgrade-sony-zl-to-android9"
-  class="article article-type-post"
-  itemscope
-  itemprop="blogPost"
-  data-scroll-reveal
->
-  <div class="article-inner">
+  
+  <ul class="ads">
     
-    <header class="article-header">
-       
-<h1 class="article-title sea-center" style="border-left:0" itemprop="name">
-  舊手機新體驗 | Sony ZL也能升級Android9 | 非官方ROM
-</h1>
- 
-
-      
-    </header>
-     
-    <div class="article-meta">
-      <a href="/how-to-upgrade-sony-zl-to-android9/" class="article-date">
-  <time datetime="2021-07-09T14:53:00.000Z" itemprop="datePublished">2021-07-09</time>
-</a> 
-  <div class="article-category">
-    <a class="article-category-link" href="/categories/%E6%95%99%E5%AD%B8/">教學</a>
-  </div>
- 
+        <li>
+            <a href="">
+                <img src="" width="" alt="">
+            </a>
+        </li>
+    
+        <li>
+            <a href="">
+                <img src="" width="" alt="">
+            </a>
+        </li>
+    
+</ul>
+  
+  
+  <article class="articles">
+    
+    
+    <h1 class="page-type-title">2021/12</h1>
+    
+    
+  
+  
+  
+  
+  
+  
+  <div class="archives-wrap">
+    <div class="archive-year-wrap">
+      <a href="/archives/2021" class="archive-year">2021</a>
     </div>
-
-
-
+    <div class="archives">
       
-    <div class="tocbot"></div>
+      <article class="archive-article archive-type-post">
+  <div class="archive-article-inner">
+    <header class="archive-article-header">
+      <a href="/taichung-shounichidou-niku/" class="archive-article-date">
+  <time datetime="2021-12-10T04:00:00.000Z" itemprop="datePublished">12/10</time>
+</a>
+       
+<h2 itemprop="name">
+  <a class="archive-article-title" href="/taichung-shounichidou-niku/"
+    >台中 | 燒肉 | 生日優惠 | 「昭日堂燒肉」完勝屋馬茶六</a> 
+</h2>
+ 
 
+    </header>
+    
+    
+  </div>
+</article>
+      
+      
+    </div>
+  </div>
+  
+  
 
   
-    <div class="article-entry" itemprop="articleBody">
-       
-  <p>Sony Z是早期Sony出的旗艦級4G智慧型手機，是當時Sony第一支四核心的手機，並且兼具防水能力(IPX7)。而Sony ZL則是硬體規格相同，但不具防水功能的相近機種，也是我早期用了好幾年的好夥伴。</p>
-<span id="more"></span>
-<p>然而，隨著時間流逝，Sony也早已停止提供相關的更新了。直到前陣子看到<a target="_blank" rel="noopener" href="https://www.mobile01.com/topicdetail.php?f=569&t=5012549">mobile01的網友分享</a>，才發現原來有第三方的ROM可以讓塵封已久的ZL，有了新的面貌！</p>
-<p>Sony官方提供的系統最後停留在Android 5.1.1的棒棒糖，嘗試找了網路的資料，也算是成功將舊手機升成Android 9吃派了！老實說，使用操作起來沒比較慢，而且因為第三方ROM很簡潔，少了很多預裝的軟體。</p>
-<pre><code>特別提醒，一旦升級後就回不去囉，所以請做好心理準備，迎向吃派的手機
-</code></pre>
-<h1 id="更新步驟"><a href="#更新步驟" class="headerlink" title="更新步驟"></a>更新步驟</h1><p>以下是我自己嘗試更新的步驟供各位參考：</p>
-<h2 id="預先準備"><a href="#預先準備" class="headerlink" title="預先準備"></a>預先準備</h2><ul>
-<li>Sony USB Drivers 驅動程式</li>
-<li>ADB(Fastboot)工具 <a target="_blank" rel="noopener" href="https://drive.google.com/file/d/0B63q77DHAZX0RVBEWW4xN2d1MHM/view">Google Drive載點</a></li>
-<li>LineageOS 16 (for Sony ZL) <a target="_blank" rel="noopener" href="https://drive.google.com/drive/folders/0B6bfB052NYwQcFNOWkx5STNVYWs">Google Drive載點</a></li>
-<li>Android 9.0 Pie GAPPs (Google應用服務框架及APP) <a target="_blank" rel="noopener" href="https://opengapps.org/">載點</a></li>
-<li>TWRP Recovery(for Sony ZL) <a target="_blank" rel="noopener" href="https://dl.twrp.me/odin/">官方載點</a></li>
-</ul>
-<h2 id="將手機解鎖-unlock"><a href="#將手機解鎖-unlock" class="headerlink" title="將手機解鎖(unlock)"></a>將手機解鎖(unlock)</h2><p>Sony官網提供(也算是鼓勵)舊手機解鎖，通常將手機解鎖就會失去保固，但老機子也早已超過保固期限，所以沒差！</p>
-<ul>
-<li><a target="_blank" rel="noopener" href="http://developer.sonymobile.com/unlockbootloader/unlock-yourboot-loader/">Sony官方 Unlock Bootloader 解鎖網頁</a> </li>
-</ul>
-<blockquote>
-<h3 id="a-選擇裝置"><a href="#a-選擇裝置" class="headerlink" title="a.選擇裝置"></a>a.選擇裝置</h3><p>拉到解鎖網頁最下方，選擇要解鎖的裝置，也就是<strong>Xperia ZL</strong></p>
-<h3 id="b-輸入號碼"><a href="#b-輸入號碼" class="headerlink" title="b.輸入號碼"></a>b.輸入號碼</h3><p>開啟手機的撥號鍵盤，輸入 <em>#</em>#7378423#<em>#</em> </p>
-<h3 id="c-查詢解鎖狀態及輸入資訊"><a href="#c-查詢解鎖狀態及輸入資訊" class="headerlink" title="c.查詢解鎖狀態及輸入資訊"></a>c.查詢解鎖狀態及輸入資訊</h3><p>查詢解鎖位置在 Service info &gt; Configuration &gt; Rooting Status<br>在下方欄位輸入 IMEI，應送出</p>
-</blockquote>
-<h2 id="安裝TWRP-Recovery"><a href="#安裝TWRP-Recovery" class="headerlink" title="安裝TWRP Recovery"></a>安裝TWRP Recovery</h2><p>由於我一直無法透過開機切換到bootloader模式，因此我選擇改以先讓手機取得root最高使用者權限，在使用root權限將TWRP刷進手機，這個步驟如果可以成功裝好TWRP就不用這個步驟。</p>
-<h3 id="取得root權限-非必要"><a href="#取得root權限-非必要" class="headerlink" title="取得root權限(非必要)"></a>取得root權限(非必要)</h3><blockquote>
-<h4 id="a-降刷到Android-4-0"><a href="#a-降刷到Android-4-0" class="headerlink" title="a.降刷到Android 4.0"></a>a.降刷到Android 4.0</h4><h4 id="b-使用一鍵root指令檔"><a href="#b-使用一鍵root指令檔" class="headerlink" title="b.使用一鍵root指令檔"></a>b.使用一鍵root指令檔</h4></blockquote>
-<p>取得root權限，就能安裝TWRP Recovery</p>
-<h2 id="將ROM及GAPPs存在記憶卡"><a href="#將ROM及GAPPs存在記憶卡" class="headerlink" title="將ROM及GAPPs存在記憶卡"></a>將ROM及GAPPs存在記憶卡</h2><h2 id="透過TWRP刷機"><a href="#透過TWRP刷機" class="headerlink" title="透過TWRP刷機"></a>透過TWRP刷機</h2><p>重新開機進入TWRP Recovery，開始刷機，總共要刷兩樣東西</p>
-<blockquote>
-<h3 id="a-刷入第三方OS"><a href="#a-刷入第三方OS" class="headerlink" title="a.刷入第三方OS"></a>a.刷入第三方OS</h3><ol>
-<li>WIPE 所有的東西(記憶卡不用)</li>
-<li>選擇INSTALL，選擇記憶卡上的ZIP檔, 開始UPDATE</li>
-</ol>
-</blockquote>
-<blockquote>
-<h3 id="b-刷入GAPPs框架"><a href="#b-刷入GAPPs框架" class="headerlink" title="b.刷入GAPPs框架"></a>b.刷入GAPPs框架</h3><p>OS部分完成後，別急著離開TWRP，因為後續還是要使用Google的一些APP，由於著作權的關係，在第三方的系統中並沒直接包含Google服務的框架及APP，其中包括Google Play。若是沒透過TWRP刷入GAPPs，直接開機後上網抓Google Play的apk安裝，Google Play是無法正常開啟的。</p>
-</blockquote>
-<p>打完收工！</p>
-<h1 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h1><ul>
-<li><a target="_blank" rel="noopener" href="https://www.mobile01.com/topicdetail.php?f=569&t=5012549">SONY Xperia ZL 三年老機改用第三方的ROM, 升Android 7.1.1</a></li>
-<li><a target="_blank" rel="noopener" href="https://www.getdroidtips.com/android-9-0-pie-sony-xperia-zl/">Download and Install Android 9.0 Pie update for Sony Xperia ZL</a></li>
-</ul>
- 
-      <!-- reward -->
-      
-    </div>
-    
-
-    <!-- copyright -->
-    
-    <footer class="article-footer">
-       
-<div class="share-btn">
-      <span class="share-sns share-outer">
-        <i class="ri-share-forward-line"></i>
-        分享
-      </span>
-      <div class="share-wrap">
-        <i class="arrow"></i>
-        <div class="share-icons">
-          
-          <a class="facebook share-sns" href="javascript:;" data-type="facebook">
-            <i class="ri-facebook-circle-fill"></i>
-          </a>
-          <a class="twitter share-sns" href="javascript:;" data-type="twitter">
-            <i class="ri-twitter-fill"></i>
-          </a>
-          <a class="google share-sns" href="javascript:;" data-type="google">
-            <i class="ri-google-fill"></i>
-          </a>
-        </div>
-      </div>
-</div>
-
-<div class="wx-share-modal">
-    <a class="modal-close" href="javascript:;"><i class="ri-close-circle-line"></i></a>
-    <p>扫一扫，分享到微信</p>
-    <div class="wx-qrcode">
-      <img src="//api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://renshuutw.github.io/how-to-upgrade-sony-zl-to-android9/" alt="微信分享二维码">
-    </div>
-</div>
-
-<div id="share-mask"></div>  
-  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Android/" rel="tag">Android</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Sony/" rel="tag">Sony</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E5%88%B7%E6%A9%9F/" rel="tag">刷機</a></li></ul>
-
-
-	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<ins class="adsbygoogle"
-	     style="display:block; text-align:center;"
-	     data-ad-layout="in-article"
-	     data-ad-format="fluid"
-	     data-ad-client="ca-pub-3194527341172508"
-	     data-ad-slot="2117823223"></ins>
-	<script>
-	     (adsbygoogle = window.adsbygoogle || []).push({});
-	</script>
-    </footer>
-  </div>
-
-   
-  <nav class="article-nav">
-    
-      <a href="/taichung-shounichidou-niku/" class="article-nav-link">
-        <strong class="article-nav-caption">上一篇</strong>
-        <div class="article-nav-title">
-          
-            台中 | 燒肉 | 生日優惠 | 「昭日堂燒肉」完勝屋馬茶六
-          
-        </div>
-      </a>
-    
-    
-      <a href="/how-to-make-old-smartphone-as-webcam/" class="article-nav-link">
-        <strong class="article-nav-caption">下一篇</strong>
-        <div class="article-nav-title">手機變鏡頭 | 舊手機別急著丟，WFH時代重生成視訊WEBCAM鏡頭 | 居家工作 | 遠距上課</div>
-      </a>
-    
-  </nav>
-
-   
- 
-   
-     
-</article>
-
 </section>
       <footer class="footer">
   <div class="outer">
@@ -353,23 +252,6 @@ ga('send', 'pageview');
 <script src="/js/lazyload.min.js"></script>
 
 <!-- Tocbot -->
-
-
-<script src="/js/tocbot.min.js"></script>
-
-<script>
-  tocbot.init({
-    tocSelector: '.tocbot',
-    contentSelector: '.article-entry',
-    headingSelector: 'h1, h2, h3, h4, h5, h6',
-    hasInnerContainers: true,
-    scrollSmooth: true,
-    scrollContainer: 'main',
-    positionFixedSelector: '.tocbot',
-    positionFixedClass: 'is-position-fixed',
-    fixedSidebarOffset: 'auto'
-  });
-</script>
 
 <script src="https://cdn.jsdelivr.net/npm/jquery-modal@0.9.2/jquery.modal.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jquery-modal@0.9.2/jquery.modal.min.css">
