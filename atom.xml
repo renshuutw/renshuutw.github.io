@@ -6,7 +6,7 @@
   <link href="https://renshuutw.github.io/atom.xml" rel="self"/>
   
   <link href="https://renshuutw.github.io/"/>
-  <updated>2021-12-13T05:09:06.159Z</updated>
+  <updated>2022-03-04T10:01:46.823Z</updated>
   <id>https://renshuutw.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2022年如何讓同個LINE帳號登入兩支手機？ |  Android、iPhone用戶看過來</title>
+    <link href="https://renshuutw.github.io/open-one-line-account-on-two-phones-2022/"/>
+    <id>https://renshuutw.github.io/open-one-line-account-on-two-phones-2022/</id>
+    <published>2022-03-04T04:53:00.000Z</published>
+    <updated>2022-03-04T10:01:46.823Z</updated>
+    
+    <content type="html"><![CDATA[<p>之前曾經寫過一篇教學文，關於<a href="../how-to-double-open-line-on-one-phone" target="new">單支手機可以雙開LINE帳號? | 兩支手機登入同個LINE帳號？</a>，其中使用了LINE Lite作為我們的雙開神器。然後，身為即時通訊巨獸的LINE公司，已經在2022年2月28日結束LINE Lite的使用，也宣告原本的雙開方法失效。</p><p>然後，還有辦法可以雙機流的使用者同時在兩支手機/裝置都進行LINE的即時傳訊嗎？方法是有的，但……</p><span id="more"></span><h1 id="情境一：iPhone-iPad"><a href="#情境一：iPhone-iPad" class="headerlink" title="情境一：iPhone+iPad"></a>情境一：iPhone+iPad</h1><p>情境一，是你同時擁有iPhone跟iPad，並希望兩者都能登入同一個LINE帳號</p><h2 id="下載裝置版本之APP"><a href="#下載裝置版本之APP" class="headerlink" title="下載裝置版本之APP"></a>下載裝置版本之APP</h2><p>iPhone跟iPad要登入同一個LINE帳號，其實相對簡單。LINE公司其實分別為了手機跟平板推出了專屬的APP，因此在手機上註冊、登入LINE個人帳號後，只要在iPad上<a href="https://itunes.apple.com/tw/app/line-for-ipad/id913855602?l=zh&mt=8" target="new">下載LINE for iPad</a>，即可同時在iPad登入同一個LINE帳號。</p><h2 id="設定LINE帳號及E-mail"><a href="#設定LINE帳號及E-mail" class="headerlink" title="設定LINE帳號及E-mail"></a>設定LINE帳號及E-mail</h2><p>為了後續能在其他裝置登入，務必先在手機版LINE APP的設定，進去「我的帳號」調整電子郵件帳號。</p><h2 id="開啟「允許自其他裝置登入」選項"><a href="#開啟「允許自其他裝置登入」選項" class="headerlink" title="開啟「允許自其他裝置登入」選項"></a>開啟「允許自其他裝置登入」選項</h2><p> 在實際操作iPad上的LINE之前，記得務必先到手機LINE APP裡頭，開啟「允許自其他裝置登入」選項。（如此一來，就能讓同一個LINE於iPad或是電腦版）</p><h2 id="使用電子郵件、密碼登入iPad版"><a href="#使用電子郵件、密碼登入iPad版" class="headerlink" title="使用電子郵件、密碼登入iPad版"></a>使用電子郵件、密碼登入iPad版</h2><p> 特別注意的是，iPad 版跟電腦版一樣沒有註冊帳號的功能。原則上一定是先在手機註冊完LINE帳號後，才能在其他裝置登入。如同登入電腦版LINE一般，輸入完帳密登入iPad版的LINE時，會要求你再輸入手機LINE顯示的驗證瑪，以確保你是帳號的所以者。（也就是兩步驟驗證）</p><p> 如此一來，就能實現同時在不同裝置上，以同一個LINE回訊息了！</p><h1 id="情境二：iPhone-Android"><a href="#情境二：iPhone-Android" class="headerlink" title="情境二：iPhone+Android"></a>情境二：iPhone+Android</h1><p>情境二是你想讓Android手機跟iPhone手機登入同一個LINE帳號。過去我們可以使用Android的LINE Lite達成目的。然而LINE Lite已經全面停用，其實還有個方法可以讓同一個LINE帳號，登入另一個裝置：走LINE網頁版路徑！</p><p>LINE網頁版其實是Chrome瀏覽器所提供的 LINE 外掛(Chrome Addon)，可在Chrome線上應用程式商店下載。然而，多數手機的瀏覽器，並不支援Chrome Addons外掛的使用，包含手機版的Chrome瀏覽器在內。目前唯有Kiwi Browser(Android) 能成功安裝Chrome Addons裡頭的LINE外掛。</p><p><img src="https://res.cloudinary.com/renshuu/image/upload/v1646387306/line-account/line-addon_mxb6oo.jpg" alt="Chrome線上應用程式商店裡頭的LINE外掛" title="Chrome線上應用程式商店裡頭的LINE外掛"></p><h2 id="LINE帳號先於iPhone登入"><a href="#LINE帳號先於iPhone登入" class="headerlink" title="LINE帳號先於iPhone登入"></a>LINE帳號先於iPhone登入</h2><p>情境二的操作模式，是讓LINE「主要登入」在iPhone手機上頭。其他裝置則走LINE網頁版路徑登入。</p><h2 id="下載Kiwi-Browser"><a href="#下載Kiwi-Browser" class="headerlink" title="下載Kiwi Browser"></a>下載Kiwi Browser</h2><p>Kiwi瀏覽器：<a href="https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=zh_TW&gl=US" target="new">Play下載連結在此</a></p><h2 id="下載LINE網頁版外掛"><a href="#下載LINE網頁版外掛" class="headerlink" title="下載LINE網頁版外掛"></a>下載LINE網頁版外掛</h2><p>安裝Kiwi瀏覽器之後，使用Kiwi瀏覽器開啟chrome線上應用程式商店上頭，<a href="https://chrome.google.com/webstore/detail/line/ophjlpahpchlmihnnnihgmmeilfjmjjc">LINE外掛的頁面</a>，並點選下載</p><h2 id="開啟LINE網頁版外掛"><a href="#開啟LINE網頁版外掛" class="headerlink" title="開啟LINE網頁版外掛"></a>開啟LINE網頁版外掛</h2><p>先開一個Kiwi瀏覽器的分頁，再到右上角點選「設定」，往下滑就能看到LINE的選項出現。<br><img src="https://res.cloudinary.com/renshuu/image/upload/v1646387306/line-account/line-button_y0is3c.jpg" alt="開啟LINE網頁版的位置" title="開啟LINE網頁版的位置"></p><h2 id="使用帳密登入LINE"><a href="#使用帳密登入LINE" class="headerlink" title="使用帳密登入LINE"></a>使用帳密登入LINE</h2><p>接著就出現我們熟悉的畫面啦，輸入帳密後，LINE一樣會要求兩階段驗證，也就是得回去看看iPhone手機跳出的驗證碼，一旦正確輸入驗證碼，就能成功登入LINE了。</p><p><img src="https://res.cloudinary.com/renshuu/image/upload/v1646387306/line-account/line-addon-kiwi_ja1m2o.jpg" alt="LINE網頁版的登入畫面" title="LINE網頁版的登入畫面"></p><p>唯一美中不足的地方是，因為改以網頁登入，LINE的訊息通知就沒能如同APP那麼的直覺跟好用；此外，整體操作介面也並非為手機設計，因此在操作上不怎麼順暢，但終究是勉強能解決同時登入的方案。</p><p><img src="https://res.cloudinary.com/renshuu/image/upload/v1646387306/line-account/line-showcase_bcoxtm.jpg" alt="勉強堪用的LINE網頁版" title="勉強堪用的LINE網頁版"></p><h1 id="總結優缺點"><a href="#總結優缺點" class="headerlink" title="總結優缺點"></a>總結優缺點</h1><ul><li>優點</li></ul><ol><li>LINE網頁版能提供你在Android手機同時登入的需求</li><li>在跨系統平台時的唯一解法</li></ol><ul><li>缺點</li></ul><ol><li>LINE網頁版雖然可以設定通知，但無法像真正的LINE APP一般，點選通知即能打開對話</li><li>LINE網頁版介面對手機並非友善，操作不夠順暢</li><li>部分LINE訊息網頁版是無法讀取的，像是LINE裏頭的記事本、相簿等(如同LINE Lite般陽春)</li></ol>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;之前曾經寫過一篇教學文，關於&lt;a href=&quot;../how-to-double-open-line-on-one-phone&quot; target=&quot;new&quot;&gt;單支手機可以雙開LINE帳號? | 兩支手機登入同個LINE帳號？&lt;/a&gt;，其中使用了LINE Lite作為我們的雙開神器。然後，身為即時通訊巨獸的LINE公司，已經在2022年2月28日結束LINE Lite的使用，也宣告原本的雙開方法失效。&lt;/p&gt;
+&lt;p&gt;然後，還有辦法可以雙機流的使用者同時在兩支手機/裝置都進行LINE的即時傳訊嗎？方法是有的，但……&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="教學" scheme="https://renshuutw.github.io/categories/%E6%95%99%E5%AD%B8/"/>
+    
+    
+    <category term="iPhone" scheme="https://renshuutw.github.io/tags/iPhone/"/>
+    
+    <category term="LINE" scheme="https://renshuutw.github.io/tags/LINE/"/>
+    
+    <category term="Android" scheme="https://renshuutw.github.io/tags/Android/"/>
+    
+  </entry>
   
   <entry>
     <title>台中 | 燒肉推薦 | 生日優惠 | 「昭日堂燒肉」完勝 吃過就不會想再去吃「屋馬」、「茶六 」了</title>
