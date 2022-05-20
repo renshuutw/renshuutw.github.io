@@ -6,7 +6,7 @@
   <link href="https://renshuutw.github.io/atom.xml" rel="self"/>
   
   <link href="https://renshuutw.github.io/"/>
-  <updated>2022-03-04T10:01:46.823Z</updated>
+  <updated>2022-05-20T01:47:28.891Z</updated>
   <id>https://renshuutw.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Google妥協了！舊版Gsuite個人用戶可繼續使用既有服務</title>
+    <link href="https://renshuutw.github.io/gsuite-good-news-from-google/"/>
+    <id>https://renshuutw.github.io/gsuite-good-news-from-google/</id>
+    <published>2022-05-19T07:53:33.000Z</published>
+    <updated>2022-05-20T01:47:28.891Z</updated>
+    
+    <content type="html"><![CDATA[<p>隨著Google宣布教育版的雲端空間大幅縮水，今(2022)年稍早也宣布早期使用GSuite的個人用戶，也得面臨抉擇，考慮是否升級為訂閱制。</p><span id="more"></span><p><img src="https://res.cloudinary.com/renshuu/image/upload/v1653011014/google-gsuite/gsuite-free-future_i4tzpb.jpg" alt="Google強迫免費版G Suite升級公告"></p><p>Google GSuite現已更名為Google Workplace，也成為許多中小企業公司信箱的解決方案。</p><p>就在Google說好的6月1日期限即將到來，在倒數不到一個月的時間，Google釋出了好消息：個人用戶若持續為個人使用將能保有既有的資料及帳號。</p><p>在登入GSuite管理介面時，會出現提示升級訂閱的訊息，現今多了一個選項：聲明GSuite僅作為個人使用(personal use)，並將升級期限改為6月27日，若在此期限前無任何動作，Google將自動升級為Workplace的方案。</p><p><img src="https://res.cloudinary.com/renshuu/image/upload/v1653011014/google-gsuite/gsuite-notify-updated_pcvcq5.jpg"></p><p>點選「暸解詳情」後，即可看到轉換程序的提示字樣，選擇「個人用途：繼續使用免付費的舊版G Suite」，也意謂後續不會出現Workplace提供相關的企業功能。然而，基本Gmail、雲端硬碟等常用的功能仍可繼續使用。<br><img src="https://res.cloudinary.com/renshuu/image/upload/v1653011013/google-gsuite/coversion-process_lqwtf1.jpg"></p><p>點選之後，即能看到完成轉換的提示。<br><img src="https://res.cloudinary.com/renshuu/image/upload/v1653011013/google-gsuite/gsuite-conversion-done_fturfr.jpg"></p><p>最後，在管理首頁的儀表板上就能看到現有「舊版 G Suite」字樣及可授權數。</p><p><img src="https://res.cloudinary.com/renshuu/image/upload/v1653011014/google-gsuite/gsuite-notify-updated_pcvcq5.jpg"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;隨著Google宣布教育版的雲端空間大幅縮水，今(2022)年稍早也宣布早期使用GSuite的個人用戶，也得面臨抉擇，考慮是否升級為訂閱制。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="教學" scheme="https://renshuutw.github.io/categories/%E6%95%99%E5%AD%B8/"/>
+    
+    
+    <category term="教學" scheme="https://renshuutw.github.io/tags/%E6%95%99%E5%AD%B8/"/>
+    
+    <category term="Google" scheme="https://renshuutw.github.io/tags/Google/"/>
+    
+    <category term="網路服務" scheme="https://renshuutw.github.io/tags/%E7%B6%B2%E8%B7%AF%E6%9C%8D%E5%8B%99/"/>
+    
+  </entry>
   
   <entry>
     <title>2022年如何讓同個LINE帳號登入兩支手機？ |  Android、iPhone用戶看過來</title>
